@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
