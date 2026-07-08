@@ -5,7 +5,7 @@ public:
         int n = nums2.size();
         int s= m+n;
         double finalans = 0;
-        vector<double>ans(s);
+        vector<int>ans(s);
         for(int i = 0 ;i<m ;i++){
             ans[i] = nums1[i];
            
@@ -18,11 +18,11 @@ public:
         
          for(int i = 0 ;i< n+m ;i++){
             if(s%2 == 0){
-                double idx = s/2.0;
-                finalans =( ans[idx] + ans[idx-1])/2;
+                int idx = s/2.0;
+                finalans =( ans[idx] + ans[idx-1])/2.0;
         }
         else{
-            double idx = s/2.0;
+            int idx = s/2.0;
             finalans = ans[idx];
         }
         }
