@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tri-bis/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tri-bis/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tri-bis/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tri-bis/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
