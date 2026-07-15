@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tri-bis/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
