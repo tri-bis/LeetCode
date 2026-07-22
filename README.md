@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tri-bis/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tri-bis/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tri-bis/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tri-bis/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tri-bis/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
