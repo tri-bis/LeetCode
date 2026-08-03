@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tri-bis/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [0766-toeplitz-matrix](https://github.com/tri-bis/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/tri-bis/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tri-bis/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tri-bis/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tri-bis/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -94,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/tri-bis/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
