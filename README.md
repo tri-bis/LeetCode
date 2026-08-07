@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
