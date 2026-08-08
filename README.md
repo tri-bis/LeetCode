@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/tri-bis/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tri-bis/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tri-bis/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tri-bis/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3731-find-missing-elements](https://github.com/tri-bis/LeetCode/tree/master/3731-find-missing-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+| [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tri-bis/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
+| [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
 |  |
 | ------- |
