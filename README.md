@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tri-bis/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tri-bis/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/tri-bis/LeetCode/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tri-bis/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/tri-bis/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tri-bis/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/tri-bis/LeetCode/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tri-bis/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/tri-bis/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tri-bis/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tri-bis/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tri-bis/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/tri-bis/LeetCode/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tri-bis/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/tri-bis/LeetCode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/tri-bis/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
