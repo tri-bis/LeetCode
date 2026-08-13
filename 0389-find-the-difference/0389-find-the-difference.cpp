@@ -7,7 +7,7 @@ public:
         char ans =' ';
         
         int i = 0;
-      while(i<s.length() +1 ){
+      while(i<s.length()+1 ){
          char s1 = s[i];
          
         char s2 = t[i];
