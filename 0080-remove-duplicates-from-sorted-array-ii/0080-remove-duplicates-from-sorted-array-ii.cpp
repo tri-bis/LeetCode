@@ -14,7 +14,6 @@ public:
                     nums[left+1] = nums[right];
                     left++;
                     right++;
-                    
                    
                 }
                 else{
