@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 | [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tri-bis/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tri-bis/LeetCode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
