@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tri-bis/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/tri-bis/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
