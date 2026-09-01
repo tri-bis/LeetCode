@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tri-bis/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/tri-bis/LeetCode/tree/master/0258-add-digits) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tri-bis/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/tri-bis/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tri-bis/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
