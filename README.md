@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tri-bis/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tri-bis/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tri-bis/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
