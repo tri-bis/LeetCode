@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tri-bis/LeetCode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/tri-bis/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/tri-bis/LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/tri-bis/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tri-bis/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/tri-bis/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tri-bis/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tri-bis/LeetCode/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tri-bis/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/tri-bis/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tri-bis/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,4 +173,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tri-bis/LeetCode/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tri-bis/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
