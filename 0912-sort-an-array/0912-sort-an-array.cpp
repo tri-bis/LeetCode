@@ -1,46 +1,45 @@
 class Solution {
-    void mergeCombine(vector<int>&nums, int s , int e,int mid){
-        vector <int> temp;
+    void mergeCombined(vector<int>& nums,int mid , int s, int e){
         int i = s;
-        int j = mid + 1;
-        while(i<= mid && j <=  e){
-            if(nums[i]<= nums[j]){
-            temp.push_back(nums[i]);
-            i++;}
+        int j = mid +1;
+        vector<int>temp;
+        while(i<= mid && j <= e){
+            if(nums[i] < nums[j]){
+                temp.push_back(nums[i]);
+                i++;
+            }
             else{
                 temp.push_back(nums[j]);
-            j++;
+                j++;
             }
         }
-             while(i <= mid){
+        while(i<=  mid){
             temp.push_back(nums[i]);
             i++;
         }
-        while(j <= e){
+        while(j<=  e){
             temp.push_back(nums[j]);
             j++;
         }
-        
-     for(int k = 0; k < temp.size(); k++){
-    nums[s+k] = temp[k];
-}   
+        for( int i = 0 ;i<temp.size();i++){
+            nums[i+s] = temp[i];
+        }
     }
-    void mergeSort(vector<int>&nums, int s , int e){
+    void mergeSort(vector<int>& nums, int s, int e){
         if(s>=e){
             return;
-        }
-        int mid = (s+e)/2;
-        mergeSort(nums,s,mid);
-        mergeSort(nums,mid+1,e);
-        mergeCombine(nums,  s ,  e ,mid);
-        
+        }   
+        int mid = (s + e)/2;
+        mergeSort(nums, s , mid);
+        mergeSort(nums , mid+1, e);
+
+        mergeCombined(nums, mid, s,e);
     }
 public:
     vector<int> sortArray(vector<int>& nums) {
         int s = 0;
-        int e = nums.size()-1;
-        mergeSort(nums,s,e);
-        
-    return nums;
+        int e = nums.size() - 1;
+        mergeSort(nums, s,e);
+        return nums;
     }
 };
