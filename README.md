@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/tri-bis/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tri-bis/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tri-bis/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tri-bis/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tri-bis/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/tri-bis/LeetCode/tree/master/0260-single-number-iii) |
 | [0704-binary-search](https://github.com/tri-bis/LeetCode/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tri-bis/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/tri-bis/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tri-bis/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tri-bis/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/tri-bis/LeetCode/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tri-bis/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tri-bis/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tri-bis/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tri-bis/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tri-bis/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tri-bis/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/tri-bis/LeetCode/tree/master/0342-power-of-four) |
